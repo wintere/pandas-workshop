@@ -11,3 +11,14 @@
 
  ### Data URL
  Available on [GitHub](https://github.com/Thomas-J-Watson-Library/Data-Sets/blob/main/IAAPI_raw_2023-10-05.csv). Click the `Download Raw File` button to download.
+
+ ## The Programming Language Database
+
+### Citation
+"PLDB: a Programming Language Database". PLDB Contributors. 2025, https://pldb.io 
+
+ ### Description
+The Programming Language Database (PLDB) is a comprehensive database of programming languages and their common features with a popularity ranking algorithm.
+
+ ### Data URL
+Downloads in `.csv`, `.tsv`, and `.json` form are available on the [PLDB site](https://pldb.io/pldb.csv)
