@@ -12,7 +12,7 @@
  ### Data URL
  Available on [GitHub](https://github.com/Thomas-J-Watson-Library/Data-Sets/blob/main/IAAPI_raw_2023-10-05.csv). Click the `Download Raw File` button to download.
 
- ## The Programming Language Database
+## The Programming Language Database
 
 ### Citation
 "PLDB: a Programming Language Database". PLDB Contributors. 2025, https://pldb.io 
@@ -22,3 +22,14 @@ The Programming Language Database (PLDB) is a comprehensive database of programm
 
  ### Data URL
 Downloads in `.csv`, `.tsv`, and `.json` form are available on the [PLDB site](https://pldb.io/pldb.csv)
+
+## Library Statistics in Oregon
+
+### Citation
+
+
+### Description
+The State Library of Oregon collects annual service measures, financial data, and other statistics from all legally-established public libraries in the state, as per Oregon Revised Statue 357.520 (Annual report). The data reporting period matches the state fiscal year (July 1 through June 30). This dataset includes all Oregon Public Library Statistical Report data from each year starting in FY2009-2010, and is updated annually. Reporting periods are identified as the year the report was submitted (i.e., FY2009-2010 data is identified as 2010 in the Year column).
+
+### Data URL
+Available on Oregon's pgovernment data API](https://data.oregon.gov/dataset/Oregon-Public-Library-Statistics/8zw7-zgjw/about_data)
